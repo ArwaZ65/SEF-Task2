@@ -86,18 +86,7 @@ form>.btns>button {
     cursor: pointer;
 }
 
-.div-1>button:hover {
-    background-color: bisque;
-    color: #914F1E;
-}
 
-.div-2>button:hover {
-    background-color: bisque;
-}
-
-.div-3>button:hover {
-    background-color: bisque;
-}
 
 form>.btns>button:hover {
     background-color: bisque;
@@ -108,9 +97,7 @@ a {
     color: #DFD3C3;
 }
 
-a:hover {
-    color: #914F1E;
-}
+
 
 .div-2 {
     margin: 2rem 0rem;
